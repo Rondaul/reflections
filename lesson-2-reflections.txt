@@ -1,8 +1,22 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When I initialize a repository a secret .git file is generated which is used to track the history of the files present in that directory.
+When I initialize a repository a secret .git file is generated which is used to
+ track the history of the files present in that directory.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
 
-Staging area is an invisible place to add your files before you finally commit to the repository. Working directory is the directory
-which you have created and want to work with it whereas staging area in an invisible area for adding files befor commiting to repository.
+Staging area is an invisible place to add your files before you finally commit
+ to the repository. Working directory is the directory which you have created
+and want to work with it whereas staging area in an invisible area for adding
+files befor commiting to repository.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+I can use git diff --staged to check if the staging area has one commit per
+logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I think it will be helpful when I want to try new features on the projects or update or modify the project.
