@@ -20,3 +20,10 @@ logical change.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 I think it will be helpful when I want to try new features on the projects or update or modify the project.
+
+How do the diagrams help you visualize the branch structure?
+
+By graphically representing the various commit of different branches, it
+help to visualize which commit belongs to which branch and whether a commit
+belongs to any branch or not or if a commit has been merge to the main branch
+that is the master.
