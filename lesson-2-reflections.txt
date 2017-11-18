@@ -27,3 +27,10 @@ By graphically representing the various commit of different branches, it
 help to visualize which commit belongs to which branch and whether a commit
 belongs to any branch or not or if a commit has been merge to the main branch
 that is the master.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+If we merge two branches the commits of boths the branches are listed in a single
+branch. By representing the branches in diagram, it helps to visualize the commits
+in a better way.
