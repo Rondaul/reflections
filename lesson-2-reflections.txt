@@ -34,3 +34,9 @@ the diagram the way we do?
 If we merge two branches the commits of boths the branches are listed in a single
 branch. By representing the branches in diagram, it helps to visualize the commits
 in a better way.
+
+what are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Git's automatic mergins helps to merges the commit to the master automatically
+It also heps to resolve merge conflicts
