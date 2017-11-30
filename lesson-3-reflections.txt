@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+We can use remote repository to share the project with others as well for keeping a safe copy of the file in the github server.
