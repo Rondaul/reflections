@@ -7,3 +7,12 @@ automatically stay up-to-date with your remote repository?
 
 Because in that way I can choose when to fetch the new commits committed by
 others. And because sometimes we are not sure that we really want to pull.
+
+Describe the diffrences between forks,clones, and branches. When would 
+you use one instead of another?
+
+Forks are the repository that you clone from other github account in github
+while clone are the copy of github repository on your local machine. Branches
+are labelled commit pointer that points to the history of commits that was
+committed in that branch.
+
