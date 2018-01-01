@@ -27,3 +27,10 @@ would be harder?
 Without using Git or GitHub, we have to use emails to send the full code and use social
 networking platforms like facebook, whatapp etc to send the full code with the edits and 
  changes. Git would make it much easier to collaborate.
+
+ When would you want to make changes in a separate branch rather than directly
+ in master? What benefits does each approach have?
+
+ We want to make changes in a separate branch when we want to add new feature 
+ or fucntionality inside the main master branch repository. This helps by not 
+ breaking the code if some bug arises while adding the feature or functionality.
